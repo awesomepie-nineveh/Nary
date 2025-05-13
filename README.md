@@ -1,2 +1,2 @@
 # Nary
-E-book and Audio-Book reader for Emby
+Apple E-book and Audio-Book reader for Emby
